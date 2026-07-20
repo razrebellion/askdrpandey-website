@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://askdrpandey.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://askdrpandey.com/treatments</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/iui</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/pcos</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/infertility</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/delivery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/high-risk-pregnancy</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/vaccination</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/stds</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/menopause</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/adolescent-health</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://askdrpandey.com/request-appointment-1</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
